@@ -1,0 +1,33 @@
+body{
+  text-align: center;
+}
+h1,h3
+{
+  font-family: 'Russo One', sans-serif;
+}
+.heading
+{
+  margin-top: 20px;
+  color: black;
+  border-radius: 4%;
+  background-color:#a3d2ca;
+  /* background-image: url("images/pink.jpg"); */
+}
+.head
+{
+  width: 8rem;
+  margin:auto;
+}
+.btn
+{
+  margin-bottom: 20px;
+}
+
+.game-title
+{
+  padding-top: 20px;
+}
+.vis
+{
+  visibility: hidden;
+}
